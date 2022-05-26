@@ -1,0 +1,8 @@
+C:\Users\Amulya_Vempadapu\source\repos\SOLID\bin\Debug\SOLID.exe.config
+C:\Users\Amulya_Vempadapu\source\repos\SOLID\bin\Debug\SOLID.exe
+C:\Users\Amulya_Vempadapu\source\repos\SOLID\bin\Debug\SOLID.pdb
+C:\Users\Amulya_Vempadapu\source\repos\SOLID\obj\Debug\SOLID.csproj.AssemblyReference.cache
+C:\Users\Amulya_Vempadapu\source\repos\SOLID\obj\Debug\SOLID.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amulya_Vempadapu\source\repos\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Amulya_Vempadapu\source\repos\SOLID\obj\Debug\SOLID.exe
+C:\Users\Amulya_Vempadapu\source\repos\SOLID\obj\Debug\SOLID.pdb
